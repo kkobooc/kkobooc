@@ -12,7 +12,7 @@ The data can make the world a better place
 
 #### 🏀 Work Experience: 덕업일치를 이뤘던 스포츠 덕후
 ```
-- 한국농구연맹(KBL) 경영관리팀 (2019.06. ~ 2020.07.)
+- 한국농구연맹(KBL) 경영관리팀 (2019.06. ~ 2020.06.)
 ```
 
 #### 🛠️ Skills: 써보고, 경험해보고, 이해해보았습니다
