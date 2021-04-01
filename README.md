@@ -23,7 +23,7 @@ The data can make the world a better place
 - Machine Learning: sklearn, basic math & stats
 - Deep Learning: tensorflow, keras
 ```
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jaecheol-choi-05032220a/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](www.linkedin.com/in/kkobooc2152)
 
   <div align=center>
     
