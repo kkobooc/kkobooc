@@ -23,7 +23,9 @@ The data can make the world a better place
 - Machine Learning: sklearn, basic math & stats
 - Deep Learning: tensorflow, keras
 ```
-[![Rocketpunch Logo](https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.rocketpunch.com/@kkobooc)](https://www.rocketpunch.com/@kkobooc)
+
+<a href="www.rocketpunch.com/@kkobooc" target="_blank"><img src="https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png" height="50">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kkobooc2152)](https://www.linkedin.com/in/kkobooc2152)
 
   <div align=center>
