@@ -24,9 +24,8 @@ The data can make the world a better place
 - Deep Learning: tensorflow, keras
 ```
 
-<a href="www.rocketpunch.com/@kkobooc"><img src="https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png" height="50"></a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kkobooc2152)](https://www.linkedin.com/in/kkobooc2152)
+<a href="https://www.rocketpunch.com/@kkobooc"> <img src="https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png" height="25" hspace="10"></a>
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kkobooc2152)](https://www.linkedin.com/in/kkobooc2152)
 
   <div align=center>
     
