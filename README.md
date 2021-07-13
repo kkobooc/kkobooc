@@ -1,4 +1,4 @@
-#### 🌱 Data Scientist (진) 
+#### 🌱 Data Scientist
 ```
 The data can make the world a better place
 라고 믿어, 오늘도 데이터를 공부하는 주니어 데이터 사이언티스트입니다.
