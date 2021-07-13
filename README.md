@@ -1,7 +1,7 @@
 #### 🌱 Data Scientist (진) 
 ```
 The data can make the world a better place
-라고 믿는, 데이터를 업으로 삼고 싶은 데이터 사이언티스트 꿈나무입니다.
+라고 믿어, 오늘도 데이터를 공부하는 주니어 데이터 사이언티스트입니다.
 ```
 
 #### 🎓 Education: 데이터가 재미있어 이런 공부를 했습니다
@@ -10,9 +10,10 @@ The data can make the world a better place
 - DS School 데이터 사이언스 입문반 수료(2018.07. ~ 2018.08.)
 ```
 
-#### 🏀 Work Experience: 덕업일치를 이뤘던 스포츠 덕후
+#### 🏀 Work Experience: 덕업일치를 이뤘던 스포츠 덕후에서 데이터 덕후로
 ```
 - 한국농구연맹(KBL) 경영관리팀 (2019.06. ~ 2020.06.)
+- 에이아이닷엠(ai.m) 데이터분석팀 (2021.04. ~ )
 ```
 
 #### 🛠️ Skills: 써보고, 경험해보고, 이해해보았습니다
