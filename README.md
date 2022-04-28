@@ -19,10 +19,10 @@ The data can make the world a better place
 #### 🛠️ Skills: 써보고, 이해하고, 체득하기
 ```
 - Data Handling: numpy, pandas, matplotlib, seaborn, plotly
-- Web: Crawling, Flask
-- Server & DB: AWS EC2, MySQL, mongoDB
-- Machine Learning: sklearn, basic math & stats
-- Deep Learning: tensorflow, keras
+- Web: Crawling, Flask, FastAPI, Django, celery, rabbitMQ
+- Server & DB: MySQL, mongoDB, AWS
+- Machine Learning: sklearn, math & stats
+- Deep Learning: tensorflow, pytorch
 ```
 
 <a href="https://www.rocketpunch.com/@kkobooc"> <img src="https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png" height="25" hspace="10"></a>
