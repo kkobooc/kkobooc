@@ -1,6 +1,6 @@
-#### 🌱 Data Scientist
+#### 🌱 Junior Data Scientist
 ```
-I believe that data can make the world a better place
+Data Analysis, ML, DL, Data Engineering, MLOps
 ```
 
 #### 🛠️ Skills
