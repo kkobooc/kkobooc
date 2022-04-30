@@ -1,28 +1,15 @@
 #### 🌱 Data Scientist
 ```
-The data can make the world a better place
-라고 믿는 오늘도 데이터를 공부하는 주니어 데이터 사이언티스트
+I believe that data can make the world a better place
 ```
 
-#### 🎓 Education: 데이터가 재미있어 했던 공부
-```
-- Fast Campus Data Science School 15기 수료 (2020.09.22. ~ 2021.02.19.)
-- DS School 데이터 사이언스 입문반 수료(2018.07. ~ 2018.08.)
-```
-
-#### 🏀 Work Experience: 덕업일치를 이뤘던 스포츠 덕후에서 데이터 덕후로
-```
-- 에이아이닷엠(ai.m) 데이터분석팀 (2021.04. ~ )
-- 한국농구연맹(KBL) 경영관리팀 (2019.06. ~ 2020.06.)
-```
-
-#### 🛠️ Skills: 써보고, 이해하고, 체득하기
+#### 🛠️ Skills
 ```
 - Data Handling: numpy, pandas, matplotlib, seaborn, plotly
-- Web: Crawling, Flask, FastAPI, Django, celery, rabbitMQ
-- Server & DB: MySQL, mongoDB, AWS
+- Web: Crawling, FastAPI, Flask, Django, celery, rabbitMQ
+- Server & DB: Linux, AWS, MySQL, mongoDB
 - Machine Learning: sklearn, math & stats
-- Deep Learning: tensorflow, pytorch
+- Deep Learning: tensorflow, pytorch, NLP
 ```
 
 <a href="https://www.rocketpunch.com/@kkobooc"> <img src="https://blog.rocketpunch.com/wp-content/uploads/2020/05/로켓펀치로고.png" height="25" hspace="10"></a>
