@@ -1,4 +1,4 @@
-#### 🌱 Junior Data Scientist
+#### 🌱 DataOps Engineer
 ```
 Data Analysis, ML, DL, Data Engineering, MLOps
 ```
